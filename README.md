@@ -9,6 +9,5 @@ http://rdyar.github.io/LabWOES/roes-old.html
 
 http://rdyar.github.io/LabWOES/roes-home.html
 
-http://rdyar.github.io/LabWOES/qprints-splash.html
 
 
