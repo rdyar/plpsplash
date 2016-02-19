@@ -1,5 +1,4 @@
-# LabWOES
-Unofficial ROES and LabWorks support for Photo Labs
+PLP splash page
 
 http://rdyar.github.io/LabWOES
 
